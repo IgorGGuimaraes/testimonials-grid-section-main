@@ -23,6 +23,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width:100%;
+    min-height:100vh;
+    display:grid;
+    place-content:center;
+    
 }
 
 .main{
